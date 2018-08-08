@@ -1,5 +1,7 @@
 # AVGMakerStarter
 ![](https://img.shields.io/badge/Language-C%2B%2B-brightgreen.svg)
+![](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+![](https://img.shields.io/badge/Version-v1.0-blue.svg)
 
 简易版橙光游戏（AVGMAKER）免审核PC端发布软件
 
